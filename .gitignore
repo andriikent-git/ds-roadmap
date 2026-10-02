@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Данные (никогда не коммитим сырые данные!)
+data/raw/
+data/interim/
+data/processed/
+
+# Модели
+models/
+
+# IDE
+.vscode/
+.idea/
+
+# ОС
+.DS_Store
